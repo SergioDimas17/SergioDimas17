@@ -7,10 +7,7 @@
 </p>
 
 <p align="center">
-  <img align="left" src="https://komarev.com/ghpvc/?username=sergiodimas17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sergiodimas17&theme=dark" alt="GitHub Trophy" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=sergiodimas17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---

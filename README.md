@@ -14,43 +14,72 @@
 ---
 
 ### 🧪 Sobre mi
-Como Ingeniero Electrónico con experiencia en QA, combino el pensamiento analítico necesario para el diagnóstico técnico con un enfoque riguroso en la calidad de software. Actualmente, estoy consolidando mi transición hacia la **Automatización de Pruebas**, aplicando conocimientos previos en desarrollo para crear entornos de prueba más eficientes.
+Como Ingeniero Electrónico con experiencia en QA, combino el pensamiento analítico necesario para el diagnóstico técnico con un enfoque riguroso en la calidad de software. Actualmente, estoy consolidando mi transición hacia la **Automatización de Pruebas**, aplicando conocimientos de desarrollo para crear entornos de prueba más eficientes.
 
 - 🔭 **Enfoque actual:** Automatización con Playwright, Selenium y Cypress.
 - 🏗 **Especialidad:** Gestión de ambientes de pruebas, pruebas de humo (smoke), pruebas de sanidad (sanity) y reportes en Jira Service Management.
-- 💬 **Intereses:** Behavior Driven Development (BDD), Gherkin y optimización de pipelines de CI/CD.
-- 🎓 **Formación:** Estudiante de English Does Work (SENA Level 3) y QA Automation (Udemy).
+- 🎓 **Formación:** Estudiante de English Does Work (SENA Level 3).
+
+---
+
+### 🧠 QA Mindset (Filosofía de trabajo)
+*   **Enfoque preventivo:** Priorizo la detección temprana de errores mediante pruebas de requerimientos y diseño, evitando que los fallos lleguen a producción.
+*   **Reportes eficaces:** Redacción de bug reports detallados, centrados en pasos claros, resultados esperados vs. obtenidos y evidencias técnicas.
+*   **Automatización inteligente:** Uso de BDD (Behavior Driven Development) con Gherkin para asegurar que cada prueba esté alineada con los requerimientos del negocio.
+*   **Calidad integral:** Entiendo que la calidad del software es una responsabilidad compartida, garantizando la trazabilidad y la mejora continua del producto.
+
+---
+
+### ⚡ En qué estoy trabajando actualmente
+Actualmente, mi foco principal está dedicado al desarrollo y mantenimiento de estrategias de **automatización para una aplicación de pagos**. 
+- Estoy diseñando e implementando scripts de **automatización de pruebas** robustos para asegurar la fiabilidad de las transacciones financieras.
+- Trabajo en la **automatización de los flujos críticos** de la pasarela de pagos, garantizando la seguridad y precisión en cada operación.
+- Estoy optimizando los procesos de **automatización** para reducir los tiempos de respuesta en las ejecuciones de pruebas y mejorar la cobertura de los casos de prueba automatizados en la plataforma de pagos.
+- Mi objetivo es lograr una **automatización** completa que permita integrar la estabilidad de la app de pagos dentro de un pipeline de despliegue continuo.
 
 ---
 
 ### 🛠 Tech Stack
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/playwright/playwright-icon.svg" alt="playwright" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jira/jira-icon.svg" alt="jira" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
+### 🎓 Formación Académica & Certificaciones
+**Formación Profesional**
+*   **Ingeniería Electrónica** | Universidad de Cundinamarca (2025).
+
+**Formación Complementaria**
+*   **QA Engineering:** Testing de Software: De Cero a QA Engineer (Udemy).
+*   **Desarrollo Backend:** Diplomado en Programación en JAVA (Politécnico de Colombia, 2024).
+*   **Desarrollo Web & Móvil:** Diplomado en Desarrollo de sitios web y apps móviles (Fundación Carlos Slim, 2023).
+*   **Versionamiento:** Curso Profesional de Git (CódigoFacilito, 2026).
+*   **Fundamentos Técnicos:** JavaScript Essentials 1 & 2 (Cisco, 2023) | SQL and Relational Databases 101 (Cognitive Class, 2023).
+
+---
+
 ### 🚀 Proyectos Destacados
-*   **[EDP - Entorno De Pruebas](https://github.com/SergioDimas17):** Implementación técnica de Jira Service Management para la gestión estructurada de defectos y replicación de ambientes.
-*   **[MedConnect](https://v0-medconnect-booking-app.vercel.app/):** Desarrollo de plataforma de reservas con enfoque en validaciones de flujo de usuario.
-*   **[Raíces - Nasa - Educa](https://appetize.io/app/b_faqjvshcnkdmdkrhbritqithhm):** App móvil enfocada en investigación sociolingüística; soporte de calidad y pruebas de arquitectura.
-*   **[Pagina-SEIP](https://pagina-seip.vercel.app/):** Aplicación web modular desarrollada en React.
+*   **EDP - Entorno De Pruebas:** Implementación técnica en Jira Service Management para la gestión estructurada de defectos.
+*   **MedConnect:** Plataforma de reservas con validaciones de flujo de usuario.
+*   **Raíces - Nasa - Educa:** App móvil de investigación sociolingüística.
+*   **Pagina-SEIP:** Aplicación web modular desarrollada en React.
 
 ---
 
 ### 📊 Estadísticas
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiodimas17&show_icons=true&locale=en&layout=compact&theme=radical" alt="sergiodimas17" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiodimas17&show_icons=true&locale=en&theme=radical" alt="sergiodimas17" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiodimas17&show_icons=true&locale=en&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sergiodimas17&show_icons=true&locale=en&theme=radical" />
 </p>
 
 ---

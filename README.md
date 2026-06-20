@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sergio Andrés Dimas Gómez</h1>
-<h3 align="center">Electronic Engineer & QA Analyst</h3>
+<h1 align="center">Hola 👋, Soy Sergio Andrés Dimas Gómez</h1>
+<h3 align="center">Ingeniero Electrónico & QA Analyst</h3>
 
 <p align="center">
   Apasionado por la calidad del software, la automatización y la optimización de procesos de testing. 
@@ -7,8 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergiodimas17&label=Profile%20views&color=0e75b6&style=flat" alt="sergiodimas17" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergiodimas17" alt="sergiodimas17" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sergiodimas17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sergiodimas17" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
@@ -18,7 +23,6 @@ Como Ingeniero Electrónico con experiencia en QA, combino el pensamiento analí
 
 - 🔭 **Enfoque actual:** Automatización con Playwright, Selenium y Cypress.
 - 🏗 **Especialidad:** Gestión de ambientes de pruebas, pruebas de humo (smoke), pruebas de sanidad (sanity) y reportes en Jira Service Management.
-- 🎓 **Formación:** Estudiante de English Does Work (SENA Level 3).
 
 ---
 
